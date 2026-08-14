@@ -232,7 +232,7 @@ The demonstration covers:
 - Interface verification and restart
 - Connectivity testing
 
-📹 **Demo Video:** [Watch the demo]([https://www.youtube.com/watch?v=REPLACE_WITH_YOUR_VIDEO_ID](https://youtu.be/5-4mZ_lexPA?si=ANMacmEApstPLh0G))
+📹 **Demo Video:** [Watch the demo](https://youtu.be/5-4mZ_lexPA)
 
 ---
 
@@ -277,4 +277,3 @@ Thank you for the guidance and for providing a practical environment to strength
 ---
 
 *Cybersecurity Laboratory — Week 01*
-
